@@ -1,0 +1,41 @@
+body {
+    border: 20px solid #bdc3c7;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: "Source Sans Pro";
+    font-size: 16px;
+    padding: 30px 20px;
+}
+
+h1 {
+    font-size: 1.1em;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #3498db;
+}
+
+h2 {
+    color: #2c3e50;
+    font-size: 2em;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+p:nth-of-type(1) {
+    border-left: 10px solid #bdc3c7;
+    padding-left: 5px;
+}
+hr {
+overflow: visible; /* For IE */
+    height: 30px;
+    border-style: solid;
+    border-color: #2c3e50;
+    border-width: 1px 0 0 0;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/* date #3498db letter spacing */
+
+/* hr */
